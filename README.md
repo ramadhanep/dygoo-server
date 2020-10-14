@@ -1,2 +1,4 @@
-# Dygoo-Server
-Social Media Chatting Application
+<img src="public/assets/images/dygoo.png" width="150">
+
+##
+> Social Media Chatting Application.
