@@ -1,8 +1,10 @@
 <br />
 <p>
   <a href="javascript:void(0)">
-    <img src="./dygoo.png" width="300">
+    <img src="./dygoo.png" width="100">
   </a>
+
+  <hr>
 
   <h3>Dygoo Server</h3>
 
